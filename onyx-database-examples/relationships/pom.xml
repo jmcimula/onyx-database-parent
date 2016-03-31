@@ -6,6 +6,8 @@
     
     <groupId>com.onyxdevtools</groupId>
     <artifactId>relationships</artifactId>
+    <name>${project.groupId}:onyx-database-examples:${project.artifactId}</name>
+
     <version>1.0.0</version>
     <packaging>jar</packaging>
     
